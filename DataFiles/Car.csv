@@ -1,0 +1,101 @@
+CarID,LPlate,Make,Model,Year,Color,CarLoc,CarClassID
+C001,LP001,Toyota,Sonata,2012,Red,AID677,c
+C002,LP002,Chevrolet,Civic,2012,Red,AID922,s
+C003,LP003,Toyota,Silverado,2012,Red,AID976,l
+C004,LP004,Toyota,3 Series,2013,Red,AID902,c
+C005,LP005,BMW,Odyssey,2012,White,AID715,s
+C006,LP006,Toyota,Civic,2012,Green,AID990,l
+C007,LP007,Nissan,Civic,2017,Yellow,AID171,i
+C008,LP008,Toyota,Sonata,2017,Orange,AID990,s
+C009,LP009,Tesla,3 Series,2020,Orange,AID677,l
+C010,LP010,Nissan,Camry,2018,Red,AID677,l
+C011,LP011,Volkswagen,Civic,2011,White,AID990,i
+C012,LP012,Honda,Odyssey,2016,Yellow,AID913,l
+C013,LP013,Chevrolet,Corolla,2016,White,AID922,s
+C014,LP014,Chevrolet,Sonata,2018,Black,AID890,c
+C015,LP015,Ford,Silverado,2014,Blue,AID922,s
+C016,LP016,Volkswagen,3 Series,2012,Green,AID976,c
+C017,LP017,Nissan,Silverado,2012,Black,AID321,s
+C018,LP018,Honda,3 Series,2012,Green,AID171,c
+C019,LP019,Nissan,Camry,2011,Orange,AID677,l
+C020,LP020,Tesla,3 Series,2012,White,AID171,i
+C021,LP021,Nissan,Silverado,2010,Silver,AID415,s
+C022,LP022,Toyota,Civic,2017,Red,AID921,c
+C023,LP023,Honda,Corolla,2011,Green,AID922,l
+C024,LP024,Chevrolet,Corolla,2013,White,AID427,c
+C025,LP025,BMW,Silverado,2016,Silver,AID926,l
+C026,LP026,BMW,Odyssey,2010,Yellow,AID889,c
+C027,LP027,Nissan,Camry,2010,Yellow,AID475,l
+C028,LP028,Volkswagen,Silverado,2016,Blue,AID427,c
+C029,LP029,Toyota,Corolla,2010,Orange,AID229,s
+C030,LP030,Ford,Civic,2019,Yellow,AID926,l
+C031,LP031,Honda,Camry,2018,White,AID976,s
+C032,LP032,Nissan,Odyssey,2019,Silver,AID715,s
+C033,LP033,Toyota,Camry,2016,Yellow,AID171,i
+C034,LP034,Chevrolet,Corolla,2017,Orange,AID922,l
+C035,LP035,Chevrolet,Odyssey,2019,Orange,AID921,i
+C036,LP036,Ford,Camry,2013,Yellow,AID926,c
+C037,LP037,Tesla,3 Series,2014,Black,AID902,i
+C038,LP038,Nissan,Camry,2010,Green,AID284,c
+C039,LP039,Ford,Sonata,2018,Orange,AID976,l
+C040,LP040,Chevrolet,Odyssey,2015,Silver,AID677,s
+C041,LP041,Tesla,Silverado,2010,Green,AID677,l
+C042,LP042,BMW,Civic,2013,Silver,AID737,i
+C043,LP043,Chevrolet,Camry,2019,Green,AID229,c
+C044,LP044,BMW,Sonata,2015,Blue,AID922,c
+C045,LP045,Toyota,Civic,2016,Silver,AID890,c
+C046,LP046,Chevrolet,3 Series,2019,Orange,AID232,c
+C047,LP047,BMW,Camry,2016,Red,AID321,i
+C048,LP048,Honda,3 Series,2013,Black,AID922,l
+C049,LP049,Chevrolet,Odyssey,2014,Black,AID921,i
+C050,LP050,Tesla,Odyssey,2014,Green,AID229,l
+C051,LP051,Ford,Silverado,2010,White,AID902,l
+C052,LP052,Chevrolet,Camry,2015,Green,AID415,i
+C053,LP053,Honda,Civic,2011,White,AID976,c
+C054,LP054,Honda,Sonata,2013,Green,AID902,s
+C055,LP055,Volkswagen,3 Series,2016,Green,AID794,i
+C056,LP056,Toyota,Sonata,2015,Orange,AID890,s
+C057,LP057,Nissan,Civic,2015,Silver,AID232,c
+C058,LP058,Tesla,Camry,2020,Orange,AID990,c
+C059,LP059,Toyota,Civic,2014,White,AID475,c
+C060,LP060,Nissan,Civic,2013,Silver,AID677,l
+C061,LP061,Honda,Sonata,2017,Green,AID976,s
+C062,LP062,Chevrolet,Corolla,2012,Red,AID321,s
+C063,LP063,Chevrolet,Corolla,2016,Yellow,AID794,l
+C064,LP064,Honda,Corolla,2014,Orange,AID677,c
+C065,LP065,Volkswagen,Civic,2019,Blue,AID677,l
+C066,LP066,Nissan,Silverado,2016,Silver,AID715,l
+C067,LP067,Chevrolet,Silverado,2017,Yellow,AID922,l
+C068,LP068,Ford,Corolla,2011,Blue,AID677,i
+C069,LP069,BMW,Corolla,2019,Yellow,AID677,s
+C070,LP070,Nissan,Corolla,2012,Black,AID677,i
+C071,LP071,Nissan,Silverado,2018,Silver,AID990,i
+C072,LP072,Chevrolet,Sonata,2010,Yellow,AID415,c
+C073,LP073,Tesla,Camry,2017,Yellow,AID913,s
+C074,LP074,Honda,Corolla,2013,Black,AID715,s
+C075,LP075,Tesla,Corolla,2013,Blue,AID922,c
+C076,LP076,Volkswagen,Camry,2015,Yellow,AID321,c
+C077,LP077,Volkswagen,Sonata,2010,Orange,AID889,c
+C078,LP078,Chevrolet,Odyssey,2020,Yellow,AID737,s
+C079,LP079,Ford,Silverado,2012,White,AID926,i
+C080,LP080,Nissan,Civic,2020,Silver,AID737,s
+C081,LP081,Toyota,Camry,2010,Yellow,AID229,i
+C082,LP082,Chevrolet,Silverado,2014,White,AID921,s
+C083,LP083,BMW,3 Series,2016,Green,AID232,c
+C084,LP084,Tesla,Silverado,2020,Orange,AID922,l
+C085,LP085,BMW,Sonata,2013,Red,AID890,l
+C086,LP086,BMW,Camry,2017,Blue,AID737,c
+C087,LP087,Ford,Sonata,2020,Silver,AID889,c
+C088,LP088,Ford,Sonata,2011,Orange,AID715,i
+C089,LP089,BMW,Sonata,2014,Orange,AID229,i
+C090,LP090,Volkswagen,Silverado,2016,Blue,AID890,i
+C091,LP091,Ford,Sonata,2012,Yellow,AID976,c
+C092,LP092,BMW,Sonata,2018,Blue,AID284,i
+C093,LP093,Tesla,Camry,2018,White,AID427,i
+C094,LP094,Chevrolet,Odyssey,2015,White,AID913,l
+C095,LP095,Volkswagen,Sonata,2013,Yellow,AID229,s
+C096,LP096,Ford,Civic,2015,Black,AID232,l
+C097,LP097,Ford,Silverado,2015,Red,AID427,c
+C098,LP098,Toyota,Silverado,2016,Orange,AID890,c
+C099,LP099,Tesla,Civic,2012,Green,AID715,l
+C100,LP100,Honda,Corolla,2011,Blue,AID475,s

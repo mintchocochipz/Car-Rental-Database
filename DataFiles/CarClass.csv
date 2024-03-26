@@ -1,0 +1,5 @@
+CarClassID,CarClassDescription,Price per day
+c,compact,95
+i,intermediate,106
+s,standard,135
+l,luxury,200
